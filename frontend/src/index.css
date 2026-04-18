@@ -3,6 +3,8 @@
 
 @theme {
   --font-sans: "Geist", ui-sans-serif, system-ui, sans-serif;
+  --color-yellow-light : #ffff00;
+  --color-offwhite: #FAFAFA ;
 }
 
 :root {
